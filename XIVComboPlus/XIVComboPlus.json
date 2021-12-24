@@ -1,0 +1,11 @@
+{
+  "Author": "attick, daemitus, alymphocyte, grammernatzi, damolitionn",
+  "Name": "XIV Combo Plus",
+  "InternalName": "XIVComboPlus",
+  "AssemblyVersion": "1.1.6.9",
+  "Description": "Personal fork of XIVComboExpandedest with additions",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras."
+}
