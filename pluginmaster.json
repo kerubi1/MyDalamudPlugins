@@ -12,11 +12,11 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/kerubi1/test/master/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/kerubi1/MyDalamudPlugins/raw/master/plugins/XIVComboPlus/latest.zip",
+        "DownloadLinkInstall": "https://github.com/kerubi1/MyDalamudPlugins/blob/master/XIVComboPlus/latest.zip?raw=true",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kerubi1/MyDalamudPlugins/raw/master/plugins/XIVComboPlus/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kerubi1/MyDalamudPlugins/raw/master/plugins/XIVComboPlus/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kerubi1/MyDalamudPlugins/blob/master/XIVComboPlus/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/kerubi1/MyDalamudPlugins/blob/master/XIVComboPlus/latest.zip?raw=true",
         "DownloadCount": 0,
         "LastUpdated": "1640316936"
     }
