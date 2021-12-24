@@ -1,10 +1,10 @@
 [
     {
         "Author": "attick, daemitus, alymphocyte, grammernatzi",
-        "Name": "XIV ComboX",
+        "Name": "XIV ComboPlus",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "InternalName": "XIVComboX",
+        "InternalName": "XIVCombo Plus",
         "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/kerubi1/test",
         "ApplicableVersion": "any",
