@@ -5,7 +5,7 @@
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
         "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
         "InternalName": "XIVComboPlus",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "https://github.com/kerubi1/test",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 5,
