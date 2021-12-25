@@ -2,7 +2,7 @@
   "Author": "attick, daemitus, alymphocyte, grammernatzi, damolitionn",
   "Name": "XIV Combo Plus",
   "InternalName": "XIVComboPlus",
-  "AssemblyVersion": "1.1.7.8",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Personal fork of XIVComboExpandedest with additions",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 5,
