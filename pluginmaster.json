@@ -28,7 +28,6 @@
         "InternalName": "RaidBuffTracker",
         "DalamudApiLevel": 5,
         "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/shdwp/xivRaidBuffTracker"
         "ApplicableVersion": "any",
         "ImageUrls": [
         "https://raw.githubusercontent.com/shdwp/DalamudPlugins/api5/plugins/RaidBuffTracker/images/image1.png"
