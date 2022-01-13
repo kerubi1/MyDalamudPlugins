@@ -30,12 +30,11 @@
         "AssemblyVersion": "1.0.0.0",
         "ApplicableVersion": "any",
         "ImageUrls": [
-        "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/f5aa7c9fe167cb4889aba332010f96d255861357/plugins/RaidBuffTracker/images/image1.png"
+        "https://raw.githubusercontent.com/shdwp/DalamudPlugins/api5/plugins/RaidBuffTracker/images/image1.png"
         ],
-        "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/f5aa7c9fe167cb4889aba332010f96d255861357/plugins/RaidBuffTracker/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/goatcorp/DalamudPlugins/blob/f5aa7c9fe167cb4889aba332010f96d255861357/plugins/RaidBuffTracker/latest.zip?raw=true",
-        "DownloadLinkTesting": "https://github.com/goatcorp/DalamudPlugins/blob/f5aa7c9fe167cb4889aba332010f96d255861357/plugins/RaidBuffTracker/latest.zip?raw=true",
-        "DownloadLinkUpdate": "https://github.com/goatcorp/DalamudPlugins/blob/f5aa7c9fe167cb4889aba332010f96d255861357/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudPlugins/api5/plugins/RaidBuffTracker/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/shdwp/DalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
         "Tags": [
         "ui"
         ]
